@@ -38,3 +38,7 @@ def turn_page
 end
 
  end  
+ 
+ 
+class Shoe
+  def initialize()
