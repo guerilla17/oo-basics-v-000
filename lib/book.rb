@@ -68,4 +68,4 @@ class Shoe
       puts "The shoe has been repaired!"
       puts "The shoe's condition is new!"
     end
-    
+  end 
